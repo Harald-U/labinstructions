@@ -18,12 +18,12 @@ We need:
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 - [curl](https://curl.haxx.se/download.html)
-- [IBM Cloud CLI](https://cloud.ibm.com/docs/home/tools)
+- [IBM Cloud CLI](https://cloud.ibm.com/docs/home/tools) & 
   [IBM Cloud CLI releases](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
 - [Docker](https://docs.docker.com/v17.12/install/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
-Since this takes some time to install and can be quite complicated on Windows, we created a Docker Image that contains all of those. In order to use it you need to have Docker installed, Docker Desktop for Mac and Windows, and Docker CE for Linux.
+Since this takes some time to install and can be quite complicated on Windows, we created a Docker Image that contains all of those. In order to use it you need to have Docker installed, Docker Desktop for Mac and Windows, or Docker CE for Linux.
 
 ### Instructions for Mac and Linux: 
 
@@ -63,11 +63,10 @@ https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-p
 
 ## Workshop 2 
 
-In the Prerequisites section skip the instructions to create a cluster,
+In the Prerequisites section skip the instructions to create a cluster.
 
 Perform Step "3. Verfiy the major prerequisites on your machine"  
 
 Then continue with Step "4.4 Get an IBM platform key" and follow the instructions from there on.
-
-
+ 
 
