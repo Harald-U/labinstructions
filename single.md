@@ -27,7 +27,7 @@ Since this takes some time to install and can be quite complicated on Windows, w
 
 ### Instructions for Mac and Linux: 
 
-[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code]
+[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code]https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code)
 
 1. Download the Git Repo locally
 2. Start the Docker Container with a mount option
@@ -36,7 +36,7 @@ This means that the Code is outside of the Container but can be accessed from wi
 
 ### Instructions for Windows
 
-[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-2-prefered-for-windows-prebuilt-image-with-code-in-container]
+[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-2-prefered-for-windows-prebuilt-image-with-code-in-container](https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-2-prefered-for-windows-prebuilt-image-with-code-in-container)
 
 Mounting a "volume" with Docker on Windows is ... complicated. 
 
@@ -51,7 +51,7 @@ This means that the Code is only accessible while you work in the Container.
 
 Don't install anything, instead use "Cloud Shell", web-based shell will all relevant tools installed.
 
-URL is [https://workshop.shell.cloud.ibm.com/] with password of `ikslab` and login with your IBM ID (the same you use for IBM Cloud).
+URL is [https://workshop.shell.cloud.ibm.com/](https://workshop.shell.cloud.ibm.com/) with password of `ikslab` and login with your IBM ID (the same you use for IBM Cloud).
 
 Although Docker is installed in the Cloud Shell you don't need to start the Docker Container with tools, all tools are already installed and immediately available in the Shell!
 
