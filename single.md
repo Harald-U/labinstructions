@@ -27,7 +27,7 @@ Since this takes some time to install and can be quite complicated on Windows, w
 
 ### Instructions for Mac and Linux: 
 
-[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code]https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code)
+[https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code](https://github.com/IBM/cloud-native-starter/blob/master/workshop-one-service/1-prereqs.md#tools---option-1-prefered-for-mac-or-linux-prebuilt-image-with-local-code)
 
 1. Download the Git Repo locally
 2. Start the Docker Container with a mount option
