@@ -1,4 +1,4 @@
-# Access a preconfigured OpenShift cluster
+# OpenShift on IBM Cloud Instructions
 
 1. If you haven't already done so register for a free IBM Cloud Account:
     * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
