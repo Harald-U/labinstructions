@@ -32,13 +32,15 @@
 4. Prepare your work environment
 
     * We need several tools: docker, git, oc, ibmcloud, to name a few
-    * You can either install those, use a [Docker Tools image](https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/2-deploying-to-openshift/documentation/1-prereqs.md#tools) we created for this lab
-    * **If you haven't installed Docker or cannot install apps on your notebook**, use a "Cloud Shell" in a Browser:
-    * To access a Cloud Shell go to [https://workshop.shell.cloud.ibm.com/](https://workshop.shell.cloud.ibm.com/), password is `ikslab`. **Important:** You need to logon with your IBM ID and select your own account, not the `1840867 - IBM` where your cluster resides!
+    * You can either:
+         * install those on your laptop or 
+         * use a [Docker Tools image](https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/2-deploying-to-openshift/documentation/1-prereqs.md#tools) we created for this lab or
+         * use a "Cloud Shell" in a Browser **if you haven't installed Docker, can not install, or do not want to install apps on your notebook** 
+    * To access Cloud Shell go to [https://workshop.shell.cloud.ibm.com/](https://workshop.shell.cloud.ibm.com/), password is `ikslab`. **Important:** You need to logon with your IBM ID and select your own account, not the `1840867 - IBM` where your cluster resides!
     
 5. The workshop itself is here https://ibm.biz/roks201
 
-    * Section "1. Installing Prerequisites" is important, the option to use Cloud Shell mentioned above is not documented, though
+    * Section "1. Installing Prerequisites" is important, the option to use Cloud Shell mentioned above is not documented, though, but you can use the "Tools - Option 3: Install Tools on you Notebook" but all the required commandline tools are already installed in the Cloud Shell, just start with the "Step 2: Get the code"
     * Sections "2. Running the Java microservice locally" and "3. Understanding the Java implementation" are **optional** and most likely would take too much time for this workshop!
     
 
