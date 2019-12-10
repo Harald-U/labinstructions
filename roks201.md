@@ -6,7 +6,7 @@
 
 2. We have created pre-configured OpenShift clusters. To assign yourself to one of these:
 
-    * Go to [https://ibmdeveloperberlin.mybluemix.net/](https://ibmdeveloperberlin.mybluemix.net/)
+    * Go to https://fraworkshop.mybluemix.net
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
