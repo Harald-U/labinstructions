@@ -10,7 +10,7 @@
 
     To assign yourself to one of these:
 
-    * Go to https://fraworkshop.mybluemix.net
+    * Go to [https://fraworkshop.mybluemix.net](https://fraworkshop.mybluemix.net)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
@@ -42,7 +42,7 @@
          * use a "Cloud Shell" in a Browser **if you haven't installed Docker, can not install, or do not want to install apps on your notebook** 
     * To access Cloud Shell go to [https://workshop.shell.cloud.ibm.com/](https://workshop.shell.cloud.ibm.com/), password is `ikslab`. **Important:** You need to logon with your IBM ID and select your own account, not the `1840867 - IBM` where your cluster resides!
     
-5. The workshop itself is here https://ibm.biz/roks201
+5. The workshop itself is here [https://ibm.biz/roks201](https://ibm.biz/roks201)
 
     * Section "1. Installing Prerequisites" is important
          * Ignore the instructions to setup an OpenShift cluster
