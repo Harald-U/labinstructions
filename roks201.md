@@ -4,7 +4,11 @@
     * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
     * Check your emails for a verification mail and click the link within
 
-2. We have created pre-configured OpenShift clusters. To assign yourself to one of these:
+2. We have created pre-configured OpenShift clusters. 
+
+    The clusters are located in one of our Frankfurt datacenters (region "eu-central")
+
+    To assign yourself to one of these:
 
     * Go to https://fraworkshop.mybluemix.net
     * Lab key for this lab is "oslab"
