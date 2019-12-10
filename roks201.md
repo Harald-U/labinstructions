@@ -40,8 +40,11 @@
     
 5. The workshop itself is here https://ibm.biz/roks201
 
-    * Section "1. Installing Prerequisites" is important, the option to use Cloud Shell mentioned above is not documented, though, but you can use the "Tools - Option 3: Install Tools on you Notebook" but all the required commandline tools are already installed in the Cloud Shell, just start with the "Step 2: Get the code"
+    * Section "1. Installing Prerequisites" is important
+         * Ignore the instructions to setup an OpenShift cluster
+         * The option to use Cloud Shell mentioned above is not documented but you can use the "Tools - Option 3: Install Tools on you Notebook". All the required command line tools are already installed in the Cloud Shell, just start with "Step 2: Get the code"
     * Sections "2. Running the Java microservice locally" and "3. Understanding the Java implementation" are **optional** and most likely would take too much time for this workshop!
+    * The workshop itself are sections 4 through 8
     
 
 
