@@ -54,7 +54,7 @@
          * Ignore the instructions to setup an OpenShift cluster
          * The option to use Cloud Shell mentioned above is not documented but you can use the "Tools - Option 3: Install Tools on you Notebook". All the required command line tools are already installed in the Cloud Shell, just start with "Step 2: Get the code"
     * **Skip** sections "2. Running the Java microservice locally" and "3. Understanding the Java implementation". They are **optional** and will take too much time for this workshop!
-    * The workshop itself are sections 4 through 8
+    * We recommend doing the workshop in itself in sequence 4, 8, 5, 6, and 7
     
 
 
