@@ -1,5 +1,11 @@
 # OpenShift on IBM Cloud Instructions
 
+---
+## WiFI:  
+## SSID = TQ 
+## Password = techquartier
+---
+
 1. If you haven't already done so register for a free IBM Cloud Account:
     * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
     * Check your emails for a verification mail and click the link within
