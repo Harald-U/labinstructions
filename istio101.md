@@ -1,6 +1,6 @@
 ![](https://secure.meetupstatic.com/photos/event/5/1/6/d/highres_487520845.jpeg)
 
-# Meetup: Managing Microservice Communication with Kubernetes and Istio Service Mesh
+# Meetup
 
 ## Location:
 
