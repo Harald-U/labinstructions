@@ -2,8 +2,8 @@
 
 ---
 ## WiFI:  
-## SSID = TQ 
-## Password = techquartier
+## SSID =
+## Password = 
 ---
 
 1. If you haven't already done so register for a free IBM Cloud Account:
