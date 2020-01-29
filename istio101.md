@@ -8,18 +8,25 @@ Time:     18:00 - 20:00 (6:00 PM to 8:00 PM)
 Location: WeWork, Stresemannstraße 123, 10963 Berlin
 ```
 
-## WiFi:
+## WiFi
 
 ```
 SSID:      
 Password:  
 ```
+
 ## IBM Cloud Account
 
 If you haven't already done so register for a free IBM Cloud Account:
 * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
 * Check your emails for a verification mail and click the link within
 
-## Lab:
+## Lab Key (required to claim a Kubernetes cluster)
+
+```
+oslab
+```
+
+## Exercises
 
 [Continue here](https://harald-u.github.io/istio101/)
