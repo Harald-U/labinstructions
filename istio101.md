@@ -11,8 +11,8 @@ Location: WeWork, Stresemannstraße 123, 10963 Berlin
 ## WiFi
 
 ```
-SSID:      
-Password:  
+SSID:      WeWork
+Password:  P@ssw0rd
 ```
 
 ## IBM Cloud Account
