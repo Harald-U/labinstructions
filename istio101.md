@@ -3,16 +3,16 @@
 # Meetup
 
 ```
-Date:     Wednesday, January 29, 2020
-Time:     18:00 - 20:00 (6:00 PM to 8:00 PM)
-Location: WeWork, Stresemannstraße 123, 10963 Berlin
+Date:    
+Time:    
+Location: 
 ```
 
 ## WiFi
 
 ```
-SSID:      WeWork
-Password:  P@ssw0rd
+SSID:      
+Password:  
 ```
 
 ## IBM Cloud Account
