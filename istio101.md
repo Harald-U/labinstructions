@@ -6,8 +6,6 @@
 Date:     Wednesday, February 19, 2020
 Time:     18:00 - 20:00 (6:00 PM to 8:00 PM)
 Location: TechQuartier - Platz der Einheit 2 - Frankfurt am Main
-
-
 ```
 
 ## WiFi
