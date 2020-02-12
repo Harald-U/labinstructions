@@ -1,4 +1,4 @@
-![](https://secure.meetupstatic.com/photos/event/b/b/0/e/highres_488387886.jpegg)
+![](https://secure.meetupstatic.com/photos/event/b/b/0/e/highres_488387886.jpeg)
 
 # Meetup
 
