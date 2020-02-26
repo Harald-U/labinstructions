@@ -46,7 +46,7 @@
          * install those on your laptop or 
          * use a [Docker Tools image](https://github.com/IBM/openshift-on-ibm-cloud-workshops/blob/master/2-deploying-to-openshift/documentation/1-prereqs.md#tools) we created for this lab or
          * use a "Cloud Shell" in a Browser **if you haven't installed Docker, can not install, or do not want to install apps on your notebook** 
-    * To access Cloud Shell go to [https://workshop.shell.cloud.ibm.com/](https://workshop.shell.cloud.ibm.com/), password is `ikslab`. **Important:** You need to logon with your IBM ID and select your own account, not the `1840867 - IBM` where your cluster resides!
+    * To access the Cloud Shell (Beta) to IBM Cloud with your IBM ID and select your own account, not the `1840867 - IBM` where your cluster resides and open IBM Cloud Shell from the menu.
     
 5. The workshop itself is here [https://ibm.biz/roks201](https://ibm.biz/roks201)
 
