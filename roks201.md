@@ -2,8 +2,8 @@
 
 ---
 ## WiFI:  
-## SSID =
-## Password = 
+## SSID = IBMClassroom
+## Password = garageibm
 ---
 
 1. If you haven't already done so register for a free IBM Cloud Account:
@@ -16,7 +16,7 @@
 
     To assign yourself to one of these:
 
-    * Go to [https://fraworkshop.mybluemix.net](https://fraworkshop.mybluemix.net)
+    * Go to [https://ibm.biz/unconf-rhcluster](https://ibm.biz/unconf-rhcluster)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
