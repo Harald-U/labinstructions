@@ -1,6 +1,6 @@
 # OpenShift on IBM Cloud Instructions
 
-<!-->
+<!--
 ---
 ## WiFI:  
 ## SSID =
@@ -10,7 +10,7 @@
 
 Link to these instructions: 
 
-##[ibm.biz/os-meetup](http://ibm.biz/os-meetup)
+## [ibm.biz/os-meetup](http://ibm.biz/os-meetup)
 
 ---
 
@@ -49,7 +49,7 @@ Link to these instructions:
 
 4. Continue with the workshop here 
 
-##[ibm.biz/roks201](https://ibm.biz/roks201)
+## [ibm.biz/roks201](https://ibm.biz/roks201)
 
     
 
