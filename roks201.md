@@ -1,13 +1,5 @@
 # OpenShift on IBM Cloud Instructions
 
-<!--
----
-## WiFI:  
-## SSID =
-## Password = 
----
--->
-
 Link to these instructions: 
 
 ## [ibm.biz/os-meetup](http://ibm.biz/os-meetup)
