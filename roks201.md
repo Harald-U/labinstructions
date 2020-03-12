@@ -1,9 +1,17 @@
 # OpenShift on IBM Cloud Instructions
 
+<!-->
 ---
 ## WiFI:  
-## SSID = IBMClassroom
-## Password = garageibm
+## SSID =
+## Password = 
+---
+-->
+
+Link to these instructions: 
+
+##[ibm.biz/os-meetup](http://ibm.biz/os-meetup)
+
 ---
 
 1. If you haven't already done so register for a free IBM Cloud Account:
@@ -16,7 +24,7 @@
 
     To assign yourself to one of these:
 
-    * Go to [https://ibm.biz/unconf-rhcluster](https://ibm.biz/unconf-rhcluster)
+    * Go to [https://XXX.mybluemix.net](https://XXX.mybluemix.net)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
@@ -34,14 +42,15 @@
 
     ![os cluster](images/os-cluster.png)
 
-    * Select the `1840867 - IBM` account in the menu, right side
+    * Select the `1840867 - IBM` account in the pulldown menu, upper right side
     * Open the Burger menu (top left) --> OpenShift --> Clusters
     * Click on the cluster assigned to you, it should be the same from the confirmation above
     * Then click on "OpenShift web console"
 
- 
-4. The workshop itself is here [https://ibm.biz/roks201](https://ibm.biz/roks201)
+4. Continue with the workshop here 
 
+##[ibm.biz/roks201](https://ibm.biz/roks201)
 
+    
 
 

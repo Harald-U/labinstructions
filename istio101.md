@@ -1,11 +1,13 @@
-![](https://secure.meetupstatic.com/photos/event/b/b/0/e/highres_488387886.jpeg)
+
+
+![]()
 
 # Meetup
 
 ```
-Date:     Wednesday, February 19, 2020
-Time:     18:00 - 20:00 (6:00 PM to 8:00 PM)
-Location: TechQuartier - Platz der Einheit 2 - Frankfurt am Main
+Date:    
+Time:     
+Location: 
 ```
 
 ## WiFi
