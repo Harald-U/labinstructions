@@ -7,6 +7,7 @@ Link to these instructions:
 ---
 
 1. If you haven't already done so register for a free IBM Cloud Account:
+
     * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
     * Check your emails for a verification mail and click the link within
 
@@ -39,9 +40,8 @@ Link to these instructions:
     * Click on the cluster assigned to you, it should be the same from the confirmation above
     * Then click on "OpenShift web console"
 
-4. Continue with the workshop here 
 
-## [ibm.biz/roks201](https://ibm.biz/roks201)
+## [Continue here with the workshop](https://ibm.github.io/openshift-on-ibm-cloud-workshops/)
 
     
 
