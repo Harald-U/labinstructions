@@ -41,7 +41,7 @@ Link to these instructions:
     * Then click on "OpenShift web console"
 
 
-## [Continue here with the workshop](https://ibm.github.io/openshift-on-ibm-cloud-workshops/)
+## Continue with the workshop: [https://ibm.biz/roks201](https://ibm.biz/roks201)
 
     
 
