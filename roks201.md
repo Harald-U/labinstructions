@@ -17,7 +17,7 @@ Link to these instructions:
 
     To assign yourself to one of these:
 
-    * Go to [https://XXX.mybluemix.net](https://XXX.mybluemix.net)
+    * Go to [https://os4meetupberlin.mybluemix.net/](https://os4meetupberlin.mybluemix.net/)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
@@ -29,16 +29,6 @@ Link to these instructions:
 
     ![granttool2](images/granttool2.png)
 
-3. Access your OpenShift cluster
-
-    * Logon to the IBM Cloud
-
-    ![os cluster](images/os-cluster.png)
-
-    * Select the `1840867 - IBM` account in the pulldown menu, upper right side
-    * Open the Burger menu (top left) --> OpenShift --> Clusters
-    * Click on the cluster assigned to you, it should be the same from the confirmation above
-    * Then click on "OpenShift web console"
 
 
 ## Continue with the workshop: [https://ibm.biz/roks201](https://ibm.biz/roks201)
