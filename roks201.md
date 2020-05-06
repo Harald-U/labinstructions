@@ -17,7 +17,7 @@ Link to these instructions:
 
     To assign yourself to one of these:
 
-    * Go to [https://os4meetupberlin.mybluemix.net/](https://os4meetupberlin.mybluemix.net/)
+    * Go to [https://openshiftberline.mybluemix.net](https://openshiftberline.mybluemix.net)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
