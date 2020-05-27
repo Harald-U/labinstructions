@@ -8,7 +8,7 @@ Link to these instructions:
 
 1. If you haven't already done so register for a free IBM Cloud Account:
 
-    * https://ibm.biz/developer-dach
+    * [https://ibm.biz/developer-dach](https://ibm.biz/developer-dach)
     * Check your emails for a verification mail and click the link within
 
 2. We have created pre-configured OpenShift clusters. 
@@ -17,7 +17,7 @@ Link to these instructions:
 
     To assign yourself to one of these:
 
-    * Go to https://osberlin.mybluemix.net
+    * Go to [https://osberlin.mybluemix.net](https://osberlin.mybluemix.net)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
