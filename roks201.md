@@ -29,7 +29,7 @@ Link to these instructions:
 
     ![granttool2](images/granttool2.png)
 
-
+    Of course your cluster will be named differently and the account you need to select from the pulldown in the IBM Cloud Dashboard is **1840867 - Advowork**.
 
 ## Continue with the workshop: 
 ## [https://ibm.biz/roks201](https://ibm.biz/roks201)
