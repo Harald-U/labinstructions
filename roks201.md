@@ -17,7 +17,7 @@ Link to these instructions:
 
     To assign yourself to one of these:
 
-    * Go to [https://osberlin.mybluemix.net](https://openshiftberline.mybluemix.net)
+    * Go to [https://osberlin.mybluemix.net](https://osberlin.mybluemix.net)
     * Lab key for this lab is "oslab"
     * Enter the IBM ID (the one you registered on IBM Cloud)  
     * Accept the T&Cs
