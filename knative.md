@@ -10,7 +10,7 @@ Important Steps and URLs for the Workshop
    https://ibm.biz/BdquDB
 
 2. Claim an OpenShift cluster for the workshop:
-   https://knativeberlin2.mybluemix.net/
+   https://knberlin.mybluemix.net/
    Lab Key: oslab
    IBMid is the email address used to register for an IBM Cloud account
  
@@ -18,5 +18,5 @@ Important Steps and URLs for the Workshop
    https://ibm.biz/knative-handson
    Follow Track 2: OpenShift Serverless on Red Hat OpenShift on IBM Cloud
   
-4. Poll on slido.com #83435
+4. Poll on https://slido.com #83435
    
