@@ -1,9 +1,13 @@
 # Knative Hands-On Workshop
 
+Get hands-on with Knative Serving: Installation, sample application, traffic management, auto-scaling 
+
+---
+
 Important Steps and URLs for the Workshop
 
 1. Register for an IBM Cloud Account:
-   https://ibm.biz/Bdqg3x
+   https://ibm.biz/BdquDB
 
 2. Claim an OpenShift cluster for the workshop:
    https://knativeberlin2.mybluemix.net/
