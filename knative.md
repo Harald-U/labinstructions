@@ -1,6 +1,6 @@
 # Knative Hands-On Workshop
 
-Get hands-on with Knative Serving: Installation, sample application, traffic management, auto-scaling 
+**This document [http://ibm.biz/kn-meetup](http://ibm.biz/kn-meetup)**
 
 ---
 
