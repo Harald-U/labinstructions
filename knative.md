@@ -1,4 +1,4 @@
-# Knative Hands-On Workshop
+# Knative Workshop Info
 
 **This document [http://ibm.biz/kn-meetup](http://ibm.biz/kn-meetup)**
 
