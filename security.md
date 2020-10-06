@@ -9,9 +9,9 @@ Important URLs:
 
 * Assign yourself a pre-provisioned Kubernetes cluster:
 
-  [appsecurity-b.mybluemix.net](appsecurity-b.mybluemix.net)
+  [https://appsecurity-b.mybluemix.net/](https://appsecurity-b.mybluemix.net/)
 
-  Labkey: **oslab**
+  Labkey: **ikslab**
 
 
 * Workshop Instructions
